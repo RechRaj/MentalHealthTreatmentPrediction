@@ -1,4 +1,4 @@
-# Dataset used:
+# Dataset used
 
 Link: https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey
 
@@ -8,9 +8,9 @@ Knowing that the technological advancements are in a way contributing towards th
 
 In order to obtain an accurate prediction of mental health treatment based on the available dataset, individual models have been used and also an ensemble1 of models used has been incorporated. The models used are - K Nearest Neighbors, Decision Tree, Random Forest Classifier, Boosting (Adaboost), Naive Bayes Classifier and Support Vector Classifier.
 
-# Accuracy obtained:
+# Accuracy obtained
 
-
+![image](https://github.com/RechRaj/MentalHealthTreatmentPrediction/blob/main/images/graph1.png)
 
 # Mental Health Prediction : 
 Major goal of this project is to optimize treatment decision-making, increase the likelihood of positive outcomes, and improve the overall quality of mental healthcare, while attempting to find the best model to predict the treatment requirement by experimenting with various ML algorithms.
@@ -18,4 +18,4 @@ Major goal of this project is to optimize treatment decision-making, increase th
 Additionally, the project aims at exploring and quantifying the mutual influences between features like age, physical health factors and mental health treatment, which is achieved by conducting exhaustive analysis of every feature and visualizing the correlation.
 
 Final Result
-![image](https://github.com/priyalkmurthy5/Mental-Health-Predictor/assets/69590799/23d9e28d-a60f-457e-a8a9-9bf09bd0accd)
+![image](https://github.com/RechRaj/MentalHealthTreatmentPrediction/blob/main/images/graph1.png)
