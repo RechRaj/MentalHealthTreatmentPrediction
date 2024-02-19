@@ -10,7 +10,7 @@ In order to obtain an accurate prediction of mental health treatment based on th
 
 # Accuracy obtained
 
-![image](https://github.com/RechRaj/MentalHealthTreatmentPrediction/blob/main/images/graph1.png)
+![image](https://github.com/RechRaj/MentalHealthTreatmentPrediction/blob/main/images/pic2.png)
 
 # Mental Health Prediction : 
 Major goal of this project is to optimize treatment decision-making, increase the likelihood of positive outcomes, and improve the overall quality of mental healthcare, while attempting to find the best model to predict the treatment requirement by experimenting with various ML algorithms.
